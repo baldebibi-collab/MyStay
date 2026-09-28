@@ -1,0 +1,16 @@
+{
+  "baseId": "appIt4PVIpjgrmhri",
+  "token": "patdjFjzrpTNch1pz.94c4c5efe1b09c152aba3060f117ed105a9fd89b72fa46323e794cc5141626c4",
+  "inviteLink": "https://airtable.com/invite/l?inviteId=invE7uhJB3I0Ntbbi&inviteToken=e6a9b9e4e548765afa0cee1eb3729fcf9c2360cf3c2a631fe8ab1fef3e148714",
+  "syncMode": "airtable",
+  "autoSync": true,
+  "lastSyncAt": "2026-09-26T17:27:24.232Z",
+  "lastSyncStatus": "success",
+  "tables": {
+    "listings": "listings",
+    "bookings": "bookings",
+    "users": "profiles",
+    "reviews": "reviews",
+    "messages": "messages"
+  }
+}
